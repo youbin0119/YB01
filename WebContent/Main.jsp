@@ -44,12 +44,14 @@
 		</aside>
 	<main>
 		<section>
-			section 1
+			section 1 부분
 			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<hr>
 		</section>
 		<section>
-			section 2
+			section 2 부분
 			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<hr>
 		</section>
 	</main>
 		<aside class="aside-right">
